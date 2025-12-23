@@ -1,0 +1,5 @@
+# Place your puzzle input here
+# This is a template day (day00) to demonstrate the structure
+example
+input
+data

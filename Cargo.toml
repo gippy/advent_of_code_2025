@@ -1,0 +1,15 @@
+[workspace]
+resolver = "2"
+members = [
+    "day00",  # Template/example day
+    # Add day solutions here as they are created
+    # Example: "day01", "day02", etc.
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["gippy"]
+
+[workspace.dependencies]
+# Common dependencies that can be shared across all days
